@@ -1,0 +1,24 @@
+{
+  "name": "excel-js",
+  "version": "1.0.0",
+  "description": "Vanilla JS Excel App",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aidarsafiullin/excel-vanilla-js.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "safiullin aidar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aidarsafiullin/excel-vanilla-js/issues"
+  },
+  "homepage": "https://github.com/aidarsafiullin/excel-vanilla-js#readme"
+}
